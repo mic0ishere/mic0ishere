@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is mic0</h1>
 <h2> I'm young developer from Poland </h2>
 
-![I'm young developer from Poland](https://mic0.me/images/favicon.png)
+<img src="https://mic0.me/images/favicon.png" width="100" height="100"/> 
 
 - 🌱 I’m currently learning **Vue.js**
 
