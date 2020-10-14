@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is mic0</h1>
 <h2> I'm young developer from Poland </h2>
 
-<img src="https://avatars1.githubusercontent.com/u/59290502?s=460&u=cd11bb07fc766fdc0e79ca13f75881bedb68283a&v=4" width="100" height="100"/> 
+<img src="https://avatars1.githubusercontent.com/u/59290502?s=460&u=cd11bb07fc766fdc0e79ca13f75881bedb68283a&v=4"/> 
 
 - 🌱 I’m currently learning **Vue.js**
 
