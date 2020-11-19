@@ -17,8 +17,8 @@ src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-pl
 src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&hide_title=true&theme=gruvbox" alt="mic0ishere" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&theme=gruvbox" alt="mic0ishere" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&theme=gruvbox" alt="mic0ishere" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&hide_title=true&theme=gruvbox" alt="mic0ishere" /></p>
 
 
 
