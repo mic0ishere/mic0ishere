@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, my name is mic0</h1>
 <p align="center"><img src="https://avatars1.githubusercontent.com/u/59290502?s=460&u=cd11bb07fc766fdc0e79ca13f75881bedb68283a&v=4" width="200" height="200"/></p>
-<h2> I'm young developer from Poland </h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=mic0ishere&label=Profile%20views&color=0e75b6&style=flat-square" alt="mic0ishere" /> </p>
+<h2> I'm young developer from Poland </h2>
+
 
 - 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Discord Bots & NodeJS**
+
+- 🔭 I’m currently working on [**your orders!**](https://mic0.me/contact)
 
 - 👯 I’m looking to collaborate on [**Mi Bot**](https://bot.mic0.me)
 
@@ -13,6 +16,8 @@
 - 🌐 Check my website [**mic0.me**](https://mic0.me)
 
 - 📫 Reach me at [**mic0.me/contact**](https://mic0.me/contact)
+
+<img src="https://komarev.com/ghpvc/?username=mic0ishere&label=Profile%20views&color=0e75b6&style=flat-square" alt="mic0ishere" /> 
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
@@ -37,3 +42,9 @@
 </details>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&count_private=tru&hide=stars&theme=vue" alt="mic0ishere" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" /></p>
+
+<a href="https://twitter.com/mic0ishere" title="My twitter">
+<img height="50px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="mic0ishere" />
+</a>
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D62PGYB) 
