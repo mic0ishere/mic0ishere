@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Discord Bots & NodeJS**
 
-- 🔭 I’m currently working on [**your orders!**](https://mic0.me/contact)
-
 - 👯 I’m looking to collaborate on [**Mi Bot**](https://bot.mic0.me)
 
 - 👨‍💻   All of my projects are available at [**mic0.me/portfolio**](https://mic0.me/portfolio)
