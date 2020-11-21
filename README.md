@@ -17,7 +17,6 @@
 
 - 📫 Reach me at [**mic0.me/contact**](https://mic0.me/contact)
 
-<img src="https://komarev.com/ghpvc/?username=mic0ishere&label=Profile%20views&color=0e75b6&style=flat-square" alt="mic0ishere" /> 
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
@@ -40,11 +39,12 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </details>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&count_private=tru&hide=stars&theme=vue" alt="mic0ishere" /><img align="left"  style="margin-right: 99vw;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&count_private=tru&hide=stars&theme=vue" alt="mic0ishere" /><img align="left"  style="margin-right: 99vw; margin-bottom: 2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" /></p>
 
+![views](https://komarev.com/ghpvc/?username=mic0ishere&label=Profile%20views&color=blue&style=flat-square)
 
+[![discord](https://img.shields.io/discord/412862284390727704?color=blue&label=discord&logo=discord&style=for-the-badge)](https://discord.gg/mt4DjDz)
 
-
-[![tweeter](https://img.shields.io/badge/My-twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mic0ishere)
+[![twitter](https://img.shields.io/badge/My-twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mic0ishere)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D62PGYB) 
