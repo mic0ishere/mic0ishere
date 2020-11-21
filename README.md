@@ -40,8 +40,10 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </details>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&count_private=tru&hide=stars&theme=vue" alt="mic0ishere" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&count_private=tru&hide=stars&theme=vue" alt="mic0ishere" /><img align="left"  style="margin-right: 99vw;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" /></p>
+
+
+
 
 <a href="https://twitter.com/mic0ishere" title="My twitter">
 <img height="50px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="mic0ishere" />
