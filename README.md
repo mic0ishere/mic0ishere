@@ -45,8 +45,6 @@
 
 
 
-<a href="https://twitter.com/mic0ishere" title="My twitter">
-<img height="50px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="mic0ishere" />
-</a>
+[![tweeter](https://img.shields.io/badge/My-twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mic0ishere)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D62PGYB) 
