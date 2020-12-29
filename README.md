@@ -39,7 +39,7 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </details>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&count_private=tru&hide=stars&theme=vue" alt="mic0ishere" /><img align="left"  style="margin-right: 99vw; margin-bottom: 2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mic0ishere&show_icons=true&count_private=tru&hide=stars&theme=vue" alt="mic0ishere" /><img align="left"  style="margin-right: 99vw; margin-bottom: 2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" /></p> -->
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2nud9glcthzcmhldv7das837h&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2nud9glcthzcmhldv7das837h&redirect=true) 
