@@ -15,7 +15,8 @@ What I know and what I use
 ![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=express&color=000&message=Express.js)
 ![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=mongodb&color=47A248&message=MongoDB)
 
-<img align="left"  style="margin-right: 99vw; margin-bottom: 2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" />
+<img align="left"  style="margin-bottom: 2vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&hide_title=false&theme=vue" alt="mic0ishere" />
+<br>
 
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message=Discord)](https://discord.gg/mt4DjDz)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=twitter&color=1DA1F2&message=Twitter)](https://twitter.com/mic0ishere)
