@@ -1,7 +1,7 @@
 
 <h2>henlo</h2>
 <p align="center"><img src="https://avatars1.githubusercontent.com/u/59290502?s=460&u=cd11bb07fc766fdc0e79ca13f75881bedb68283a&v=4" width="200" height="200"/></p>
-I like to ~~program~~ break things. I hate Angular and cheese, except Parmesan. Typescript > Javascript
+I like to <s>program</s> break things. I hate Angular and cheese, except Parmesan. Typescript > Javascript
 
 What I know and what I use
 
