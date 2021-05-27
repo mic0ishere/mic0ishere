@@ -6,7 +6,7 @@ I like to <s>program</s> break things. I hate Angular and cheese, except Parmesa
 What I know and what I use
 
 ![](https://img.shields.io/static/v1?message=JavaScript&style=for-the-badge&label=&logo=javascript&logoColor=000000&color=F7DF1E&cacheSeconds=86400)
-![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=node.js&color=339933&message=Node.js)
+![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=Node.js&color=339933&message=Node.js)
 ![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=java&color=007396&message=Java)
 
 <!-- 
