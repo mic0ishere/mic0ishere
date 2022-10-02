@@ -1,7 +1,10 @@
 
-<h2>henlo</h2>
+<h2>hello!</h2>
 <p align="center"><img src="https://avatars1.githubusercontent.com/u/59290502?s=460&u=cd11bb07fc766fdc0e79ca13f75881bedb68283a&v=4" width="200" height="200"/></p>
-I like to <s>program</s> break things. I hate Angular and cheese, except Parmesan. Typescript > Javascript
+
+I Jack (`mic0`) and I really enjoy <s>programming</s> breaking things. I hate Angular and cheese, except Parmesan. Typescript > Javascript
+<br/>
+PS. If you are looking for my **real** portfolio, check out [mic0.me](https://mic0.me). Thanks!
 
 <!-- 
 
@@ -17,10 +20,10 @@ What I know and what I use
 ![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=express&color=000&message=Express.js)
 ![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=mongodb&color=47A248&message=MongoDB) 
 -->
-<br/>
-<br/>
 
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mic0ishere&layout=compact&count_private=true&hide_border=true&hide_title=false&theme=react)
+-->
 
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLWdsb2JlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCI+PC9jaXJjbGU+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiPjwvbGluZT48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiPjwvcGF0aD48L3N2Zz4=&color=363D59&message=Website)](https://mic0.me/)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=twitter&color=1DA1F2&message=Twitter)](https://twitter.com/mic0ishere)
