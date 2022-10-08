@@ -2,8 +2,10 @@
 <h2>hello!</h2>
 <p align="center"><img src="https://avatars1.githubusercontent.com/u/59290502?s=460&u=cd11bb07fc766fdc0e79ca13f75881bedb68283a&v=4" width="200" height="200"/></p>
 
-I'm Jack (`mic0`) and I really enjoy <s>programming</s> breaking things. I hate Angular and cheese, except Parmesan. Typescript > Javascript
+I'm Jack (*mic0*) and I really enjoy <s>programming</s> breaking things. 
 <br/>
+I hate Angular and cheese, except Parmesan. Typescript > Javascript
+
 PS. If you are looking for my **real** portfolio, check out [mic0.me](https://mic0.me). Thanks!
 
 <!-- 
